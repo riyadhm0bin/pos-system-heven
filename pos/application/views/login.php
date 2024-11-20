@@ -21,10 +21,11 @@
 <div class="login-4">
     <div class="container-fluid">
         <div class="row login-box">
-            <div class="col-lg-6 form-section">
+<!--            <div class="col-lg-6 form-section">-->
+            <div class="col-lg-12 form-section">
                 <div class="form-inner">
                     <a href="/" class="logo">
-                        <img src="<?php echo base_url(get_site_logo());?>" alt="logo"> <-- Logo -->
+                        <img src="<?php echo base_url(get_site_logo());?>" alt="logo">
                     </a>
                     <h3>
                         শপকিপার সফটওয়ারে লগইন করুন
@@ -59,7 +60,7 @@
                         <p>সফটওয়্যারের সকল কারিগরী সহযোগিতায় <a style="text-decoration: underline;" href="https://heaventechit.com" class="thembo">Heaven Tech-IT</a></p>
                 </div>
             </div>
-            <div class="col-lg-6 bg-img clip-home h-100">test</div>
+<!--            <div class="col-lg-6 bg-img clip-home h-100"></div>-->
         </div>
     </div>
 </div>
