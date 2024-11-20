@@ -59,9 +59,9 @@
                         </div>
                         <div class="clearfix"></div>
                         <ul class="social-list">
-                            <li><a href="https://facebook.com/heaventechit2.0" class="facebook-color"><i class="fa fa-facebook facebook-i"></i><span>ফেইসবুক</span></a></li>
-                            <li><a href="https://www.youtube.com/heaventechit2.0" class="twitter-color"><i class="fa fa-youtube-play google-i"></i><span>ইউটিউব</span></a></li>
-                            <li><a href="https://heaventechit.com" class="google-color"><i class="fa fa-globe twitter-i"></i><span>ওয়েব সাইট</span></a></li>
+                            <li><a href="https://facebook.com/heaventechit2.0" target="_blank" class="facebook-color"><i class="fa fa-facebook facebook-i"></i><span>ফেইসবুক</span></a></li>
+                            <li><a href="https://www.youtube.com/heaventechit2.0" target="_blank" class="twitter-color"><i class="fa fa-youtube-play google-i"></i><span>ইউটিউব</span></a></li>
+                            <li><a href="https://heaventechit.com" target="_blank" class="google-color"><i class="fa fa-globe twitter-i"></i><span>ওয়েব সাইট</span></a></li>
                         </ul>
                     </form>
                     <div class="clearfix"></div>
